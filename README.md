@@ -27,7 +27,7 @@ The workflow was designed to support:
 
 ## Integrated GIS–AHP Methodology
 
-The spatial risk assessment framework integrates four complementary environmental risk indicators:
+The spatial risk assessment framework integrates four complementary environmental risk indicators.
 
 ### Risk Indicators
 
@@ -43,24 +43,16 @@ The spatial risk assessment framework integrates four complementary environmenta
 - **RRI – Regulatory Risk Index**  
   Indicator based on the frequency and severity of exceedances of regulatory threshold values.
 
-All indicators were normalized using min–max normalization and integrated into a final:
-
-## Integrated Risk Index (IIR)
-
-using the Analytic Hierarchy Process (AHP).
+All indicators were normalized using min–max normalization and integrated into the final Integrated Risk Index (IIR) using the Analytic Hierarchy Process (AHP).
 
 ## Spatial Statistical Analysis
 
-Spatial clustering analysis was performed using:
-
-## Getis-Ord Gi* hotspot analysis
-
-to identify statistically significant spatial clusters of elevated and reduced environmental risk.
+Spatial clustering analysis was performed using Getis-Ord Gi* hotspot analysis in order to identify statistically significant spatial clusters of elevated and reduced environmental risk.
 
 Due to the definition of the Integrated Risk Index:
 
 - lower IIR values indicate higher environmental risk,
-- therefore statistically significant cold spots represent clusters of elevated environmental risk,
+- statistically significant cold spots represent clusters of elevated environmental risk,
 - while hot spots represent areas of relatively favorable environmental conditions.
 
 ## Key Findings
@@ -109,7 +101,6 @@ within a unified environmental risk assessment framework.
 - Spatial analysis outputs
 - Integrated risk assessment maps
 - Hotspot analysis maps
-- Methodological documentation
 - Cartographic visualizations
 
 ## Scientific and Practical Relevance
@@ -122,6 +113,12 @@ This repository demonstrates how GIS-based spatial intelligence approaches can s
 - and identification of priority monitoring and management areas.
 
 The framework may also serve as a methodological basis for future environmental monitoring studies integrating spatial statistics and multicriteria analysis.
+
+## Contact
+
+For additional methodological details, collaboration opportunities, or GIS-related research inquiries, feel free to connect with me on LinkedIn.
+
+[LinkedIn Profile](https://linkedin.com/in/jelena-lukic-bb84232b5)
 
 ## Author
 
