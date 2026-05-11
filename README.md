@@ -6,8 +6,6 @@ The project integrates environmental monitoring data, Geographic Information Sys
 
 The framework was developed as part of a research study focused on transforming environmental monitoring data into spatial decision-support information for environmental risk interpretation and water resource management.
 
----
-
 # Project Objective
 
 The primary objective of the study was to develop an integrated spatial framework capable of evaluating multiple dimensions of heavy metal pollution risk within Serbia’s national surface water monitoring network.
@@ -19,8 +17,6 @@ The analysis aimed to:
 - evaluate temporal pollution dynamics,
 - detect statistically significant spatial clustering patterns,
 - and support GIS-based environmental decision-making.
-
----
 
 # Study Area and Monitoring Network
 
@@ -36,8 +32,6 @@ The monitoring network included rivers and water bodies influenced by different:
 
 The spatial distribution of monitoring locations enabled the assessment of both localized pollution patterns and broader regional environmental trends.
 
----
-
 # Integrated GIS–AHP Methodology
 
 The spatial risk assessment framework was developed through the integration of four complementary environmental risk indicators:
@@ -50,8 +44,6 @@ The spatial risk assessment framework was developed through the integration of f
 Each indicator represented a different dimension of environmental pressure associated with heavy metal pollution.
 
 All indicators were normalized using min–max normalization and integrated into a final Integrated Risk Index (IIR) using the Analytic Hierarchy Process (AHP).
-
----
 
 # Risk Indicators
 
@@ -72,8 +64,6 @@ allowing comparative evaluation of overall pollution burden across the monitorin
 - higher TPI → greater cumulative pollution pressure,
 - lower TPI → reduced pollution intensity.
 
----
-
 ## 2. Bioavailability Indicator (BI)
 
 The Bioavailability Indicator evaluates the dissolved fraction of heavy metals within the aquatic environment.
@@ -85,8 +75,6 @@ This indicator was included because dissolved metal fractions are more biologica
 - higher dissolved fraction → greater ecological availability,
 - increased potential biological impact,
 - and elevated environmental sensitivity.
-
----
 
 ## 3. Temporal Trend Indicator (IT)
 
@@ -102,8 +90,6 @@ The indicator enabled identification of:
 
 This component allowed the framework to move beyond static pollution assessment and incorporate temporal environmental behavior into the final spatial risk model.
 
----
-
 ## 4. Regulatory Risk Indicator (RRI)
 
 The Regulatory Risk Indicator evaluates the frequency and severity of exceedances of regulatory threshold values for heavy metals.
@@ -116,8 +102,6 @@ The indicator represents the regulatory dimension of environmental risk and dire
 - lower exceedance frequency → more favorable environmental status.
 
 The analysis demonstrated that the Regulatory Risk Indicator had the dominant influence within the final integrated model.
-
----
 
 # Analytic Hierarchy Process (AHP)
 
@@ -137,8 +121,6 @@ The weighting process enabled systematic integration of multiple environmental d
 | Temporal Trend Indicator (IT) | 11.3% |
 
 The weighting process demonstrated the dominant influence of regulatory exceedance frequency within the final integrated environmental risk model, emphasizing the importance of regulatory compliance pressure in spatial environmental assessment.
-
----
 
 # Integrated Risk Index (IIR)
 
@@ -170,8 +152,6 @@ Due to the definition of the Integrated Risk Index:
 
 The analysis enabled identification of regional environmental risk concentrations rather than isolated monitoring anomalies.
 
----
-
 # Key Findings
 
 The study identified several spatially significant clusters of elevated environmental risk, particularly within northern parts of Serbia associated with long-term anthropogenic pressures.
@@ -193,8 +173,6 @@ The analysis also demonstrated the methodological value of integrating:
 
 within a unified environmental risk assessment framework.
 
----
-
 # Software and Methods
 
 ## GIS and Spatial Analysis
@@ -215,8 +193,6 @@ within a unified environmental risk assessment framework.
 - Getis-Ord Gi*
 - Environmental risk modeling
 
----
-
 # Repository Contents
 
 - Integrated risk assessment maps
@@ -226,8 +202,6 @@ within a unified environmental risk assessment framework.
 - Indicator ranking charts
 - GIS cartographic layouts
 - Spatial risk interpretation outputs
-
----
 
 # Scientific and Practical Relevance
 
@@ -240,8 +214,6 @@ This repository demonstrates how GIS-based spatial intelligence approaches can s
 - and identification of critical environmental pressure zones.
 
 The framework may also serve as a methodological basis for future GIS-based environmental monitoring studies integrating multicriteria analysis and spatial statistics.
-
----
 
 # Contact
 
