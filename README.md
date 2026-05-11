@@ -200,7 +200,6 @@ within a unified environmental risk assessment framework.
 ## GIS and Spatial Analysis
 
 - QGIS
-- ArcGIS Pro
 - Spatial interpolation
 - Geospatial database organization
 - Environmental cartography
